@@ -25,6 +25,7 @@ public class Lab {
     public void set(int[] arr, int n){
         for (int index = 0; index < arr.length; ++index) {
             arr[index] = n;
+            //just adding text
         }
     }
 }
